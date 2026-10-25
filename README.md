@@ -74,7 +74,8 @@ The recording shows Gazebo and RViz2 side by side, robot localization, navigatio
 
 ## Screenshot
 
-![Gazebo and RViz2 simulation](media/gazebo-rviz.png)
+![Gazebo and RViz2 simulation](media/gazebo.png)
+![Gazebo and RViz2 simulation](media/rviz2.png)
 
 ## Configuration and Scope
 
