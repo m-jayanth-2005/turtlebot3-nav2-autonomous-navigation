@@ -68,7 +68,7 @@ The following checks were performed during testing:
 
 ## Demo
 
-**Screen recording:** [Insert the public demo link here]
+**Screen recording:** [https://youtu.be/PzXvrKjuCgg?si=HJFo-D8-o0CTQnWo]
 
 The recording shows Gazebo and RViz2 side by side, robot localization, navigation goal selection, and autonomous movement toward the selected goals.
 
